@@ -1,4 +1,4 @@
-# store-legacy
+# zero-legacy
 
 The `mongodb` lib based on `mgo`.
 

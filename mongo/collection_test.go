@@ -10,7 +10,7 @@ import (
 	"github.com/zeromicro/go-zero/core/breaker"
 	"github.com/zeromicro/go-zero/core/logx"
 	"github.com/zeromicro/go-zero/core/stringx"
-	"github.com/zeromicro/store-legacy/mongo/internal"
+	"github.com/zeromicro/zero-legacy/mongo/internal"
 )
 
 var errDummy = errors.New("dummy")

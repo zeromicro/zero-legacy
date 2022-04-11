@@ -1,4 +1,4 @@
-module github.com/zeromicro/store-legacy
+module github.com/zeromicro/zero-legacy
 
 go 1.18
 
